@@ -1,0 +1,16 @@
+Month 	 max_Temp_Time 
+5		14:40:00
+6		13:38:00
+7		08:50:00
+2-A(b) time of the day is the most commonly occurring hottest time 
+13:00	14:40	14:50	15:00	2-A(c) the Top Ten hottest times on distinct days, preferably sorted by date orderDate 		 time 	 max_Temp 
+10/6/2006	13:10			19.9
+11/6/2006	11:20			22.4
+12/6/2006	15:00			19.4
+15/06/2006	14:00			21.1
+17/06/2006	14:50			18.9
+28/06/2006	10:50			21.4
+3/6/2006	15:00			19.6
+6/6/2006	14:20			23.2
+7/6/2006	13:00			19.6
+8/6/2006	16:50			20.7
